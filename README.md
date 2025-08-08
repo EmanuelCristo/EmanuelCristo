@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá
 
-<!--
-**EmanuelCristo/EmanuelCristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Emanuel Alves de Cristo, sou estudante de Sistemas de Informação no Centro de Tecnologia e Técnico em Informática para Internet no Colégio Politécnico, ambas na Universidade Federal de Santa Maria.
 
-Here are some ideas to get you started:
+## Minhas competências
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Competência | Nota |
+| ----------- | ---- |
+| C           | 8,5  |
+| HTML/CSS    | 7    |
+| Clash Royale| 10   |
+
+## Interesses
+
+Tenho interesses na area de programação, voltado em algumas areas específicas:
+- jogos digitais🎮;
+- acessibilidade🦾;
+- inteligência artificial🤖;
+- páginas web🖥️.
+
+Também me interesso pelas areas de administração, marketing, economia, etc.
