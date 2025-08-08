@@ -13,9 +13,9 @@ Meu nome é Emanuel Alves de Cristo, sou estudante de Sistemas de Informação n
 ## Interesses
 
 Tenho interesses na area de programação, voltado em algumas areas específicas:
-- jogos digitais🎮;
-- acessibilidade🦾;
-- inteligência artificial🤖;
-- páginas web🖥️.
+- jogos digitais🎮
+- acessibilidade🦾
+- inteligência artificial🤖
+- páginas web🖥️
 
 Também me interesso pelas areas de administração, marketing, economia, etc.
